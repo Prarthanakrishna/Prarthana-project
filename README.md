@@ -1,3 +1,3 @@
 # Prarthana-project
 This is my first repository.
-Author Prarthanakrishna.
+Author Prarthanakrishna Girish Babu.
